@@ -10,7 +10,7 @@ General Manufacturer Information
 
 ## Environments
 The main compilation environment is DOSBox.
-* [DOSBox](www.dosbox.com)
+* [DOSBox](dosbox.com)
 
 ## Emulators
 * [THRSim11](www.hc11.demon.nl/thrsim11/thrsim11.htm)
@@ -22,4 +22,4 @@ The operating system for the M68HC11 is the Buffalo Monitor.
 ## Text Editors
 Recommended text editors for source code:
 * [Notepad++](https://notepad-plus-plus.org)
-* [Vim](www.vim.org/download.php)  
+* [Vim](www.vim.org)  
