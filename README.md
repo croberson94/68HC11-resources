@@ -18,7 +18,7 @@ Helpful alternate shells:
 * [Cygwin](https://www.cygwin.com)
 * [Console2](https://sourceforge.net/projects/console/files/)
 * [Putty](https://www.putty.org)
-* [Teraterm[(https://ttssh2.osdn.jp/index.html.en)
+* [Teraterm](https://ttssh2.osdn.jp/index.html.en)
 
 ## Emulators
 *  [THRSim11](http://letmegooglethat.com/?q=thrsim11)
