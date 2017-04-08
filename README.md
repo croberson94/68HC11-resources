@@ -14,7 +14,7 @@ The main compilation environment is DOSBox.
 * [DOSBox](https://www.dosbox.com)
 * [DOSBox Tutorial](https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox)
 
-Helpful alternate shells:
+Helpful alternate shells (for file handling and monitor output):
 * [Cygwin](https://www.cygwin.com)
 * [Console2](https://sourceforge.net/projects/console/files/)
 * [Putty](https://www.putty.org)
