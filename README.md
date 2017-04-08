@@ -7,21 +7,20 @@ Since this is a legacy board, it might be hard to come by physically. There are 
 ## Documentation
 General Manufacturer Information
 * [Axman CME-11E9-EVBU](https://www.axman.com/content/cme-11e9-evbu)
-
-Jameco Data Sheet
-* [M68HC11E Family Data Sheet](www.jameco.com/Jameco/Products/ProdDS/246804MOT.pdf)
+* [Jameco M68HC11E Family Data Sheet](http://letmegooglethat.com/?q=jameco+68hc11+family+data+sheet)
 
 ## Environments
 The main compilation environment is DOSBox.
 * [DOSBox](https://www.dosbox.com)
+* [DOSBox Tutorial](https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox)
 
 Helpful alternate shells:
 * [Cygwin](https://www.cygwin.com)
 * [Console2](https://sourceforge.net/projects/console/files/)
-* [Putty](www.putty.org)
+* [Putty](https://www.putty.org)
 
 ## Emulators
-* [THRSim11](https://www.hc11.demon.nl/thrsim11/thrsim11.htm)
+*  [THRSim11](http://letmegooglethat.com/?q=thrsim11)
 
 ## Interface
 The operating system for the M68HC11 is the Buffalo Monitor.
@@ -30,4 +29,4 @@ The operating system for the M68HC11 is the Buffalo Monitor.
 ## Text Editors
 Recommended text editors for source code:
 * [Notepad++](https://notepad-plus-plus.org)
-* [Vim](www.vim.org)  
+* [Vim](https://www.vim.org)  
