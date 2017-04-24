@@ -9,6 +9,9 @@ General Manufacturer Information
 * [Axman CME-11E9-EVBU](https://www.axman.com/content/cme-11e9-evbu)
 * [Jameco M68HC11E Family Data Sheet](http://letmegooglethat.com/?q=jameco+68hc11+family+data+sheet)
 
+Other Information
+* [Motorola S19 File Format](https://www.x-ways.net/winhex/kb/ff/Motorola-S3.txt)
+
 ## Environments
 The main compilation environment is DOSBox.
 * [DOSBox](https://www.dosbox.com)
