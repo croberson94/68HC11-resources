@@ -21,7 +21,7 @@ The main compilation environment is DOSBox.
 Helpful alternate shells (for file handling and monitor output):
 * [Cygwin](https://www.cygwin.com)
 * [Console2](https://sourceforge.net/projects/console/files/)
-* [Putty](https://www.putty.org)
+* [Putty](http://letmegooglethat.com/?q=putty)
 * [Teraterm](https://ttssh2.osdn.jp/index.html.en)
 
 ## Emulators
