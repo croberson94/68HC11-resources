@@ -8,7 +8,7 @@ Since this is a legacy board, it might be hard to come by physically. There are 
 ## Documentation
 General Manufacturer Information
 * [Axman CME-11E9-EVBU](https://www.axman.com/content/cme-11e9-evbu)
-* [Jameco M68HC11E Family Data Sheet](http://letmegooglethat.com/?q=jameco+68hc11+family+data+sheet)
+* [Jameco M68HC11E Family Data Sheet](https://www.jameco.com/Jameco/Products/ProdDS/248575MOT.pdf)
 
 Other Information
 * [Motorola S19 File Format](https://www.x-ways.net/winhex/kb/ff/Motorola-S3.txt)
