@@ -23,6 +23,7 @@ Helpful alternate shells (for file handling and monitor output):
 * [Console2](https://sourceforge.net/projects/console/files/)
 * [Putty](http://letmegooglethat.com/?q=putty)
 * [Teraterm](https://ttssh2.osdn.jp/index.html.en)
+* [CoolTerm](https://learn.sparkfun.com/tutorials/terminal-basics/coolterm-windows-mac-linux)
 
 ## Emulators
 *  [THRSim11](http://letmegooglethat.com/?q=thrsim11)
