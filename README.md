@@ -26,7 +26,7 @@ Helpful alternate shells (for file handling and monitor output):
 * [CoolTerm](https://learn.sparkfun.com/tutorials/terminal-basics/coolterm-windows-mac-linux)
 
 ## Emulators
-*  [THRSim11](http://letmegooglethat.com/?q=thrsim11)
+*  [THRSim11](http://www.hc11.demon.nl/thrsim11/thrsim11.htm)
 
 ## Interface
 The operating system for the M68HC11 is the Buffalo Monitor.
