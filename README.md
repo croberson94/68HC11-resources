@@ -21,7 +21,7 @@ The main compilation environment is DOSBox.
 Helpful alternate shells (for file handling and monitor output):
 * [Cygwin](https://www.cygwin.com)
 * [Console2](https://sourceforge.net/projects/console/files/)
-* [Putty](http://letmegooglethat.com/?q=putty)
+* [Putty](https://putty.org/)
 * [Teraterm](https://ttssh2.osdn.jp/index.html.en)
 * [CoolTerm](https://learn.sparkfun.com/tutorials/terminal-basics/coolterm-windows-mac-linux)
 
@@ -42,3 +42,4 @@ MGTEK MiniIDE provides much of the functionality of the Axiom IDE with the addit
 Recommended text editors for source code:
 * [Notepad++](https://notepad-plus-plus.org)
 * [Vim](https://www.vim.org)  
+* [MacVim](https://macvim-dev.github.io/macvim/)
