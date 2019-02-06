@@ -6,25 +6,27 @@ Since this is a legacy board, it might be hard to come by physically. There are 
 [Amazon](https://www.amazon.com/Evaluation-Serial-Configurable-Memory-Sockets/dp/B00DK2CDU0/ref=sr_1_5?ie=UTF8&qid=1514243876&sr=8-5&keywords=68hc11) may have the board available.
 
 ## Documentation
-General Manufacturer Information
+### General Manufacturer Information
 * [Axman CME-11E9-EVBU](https://www.axman.com/content/cme-11e9-evbu)
 * [Jameco M68HC11E Family Data Sheet](https://www.jameco.com/Jameco/Products/ProdDS/248575MOT.pdf)
 
-Other Information
+### Other Information
 * [68HC11 Instruction Set](http://dankohn.info/projects/68HC11/68HC11%20Instruction%20Set.htm)
 * [Motorola S19 File Format](https://www.x-ways.net/winhex/kb/ff/Motorola-S3.txt)
 
 ## Environments
-The main compilation environment is DOSBox.
+The main compilation environment is DOSBox, using the AS11 assembler (see below).
 * [DOSBox](https://www.dosbox.com)
 * [DOSBox Tutorial](https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox)
 
-Helpful alternate shells (for file handling and monitor output):
-* [Cygwin](https://www.cygwin.com)
-* [Console2](https://sourceforge.net/projects/console/files/)
-* [Putty](https://putty.org/)
-* [Teraterm](https://ttssh2.osdn.jp/index.html.en)
-* [CoolTerm](https://learn.sparkfun.com/tutorials/terminal-basics/coolterm-windows-mac-linux)
+## Communication with Board
+The methods used to communicate with the development board differ on Windows and Mac/Linux.
+
+### Windows
+Download and install [Tera Term](https://osdn.net/projects/ttssh2/releases/). Connect to the board using the default parameters--9600 baud, 1 stop bit, no parity. Proceed using Buffalo Monitor.
+
+### Mac/Linux
+Utilize `screen`, a terminal multiplexer, which has built in serial communication capabilities. This should be installed by default on all Mac and Linux machines. Read the instructions at [http://www.noah.org/wiki/Screen_notes#using_screen_as_a_serial_terminal](http://www.noah.org/wiki/Screen_notes#using_screen_as_a_serial_terminal) for more information.
 
 ## Emulators
 *  [THRSim11](http://www.hc11.demon.nl/thrsim11/thrsim11.htm)
