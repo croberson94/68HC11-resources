@@ -41,6 +41,13 @@ The main assembler for the source code is as11, for the Axiom development enviro
 MGTEK MiniIDE provides much of the functionality of the Axiom IDE with the addition of syntax highlighting.
 * [MGTEK MiniIDE](https://www.mgtek.com/miniide/)
 
+## Disassembly, Code-Recovery, Reverse-Engineering, and Code-Analysis
+GenDasm, the Generic Code-Seeking Disassembler engine with Fuzzy-Function Analyzer, uses a DNA Sequence Alignment Algorithm to locate similar code in multiple binaries to facilitate reverse-engineering and/or code recovery.  It's also useful to analyze compiler code-generation and help with making optimizations.
+* [Generic Code-Seeking Disassembler with Fuzzy-Function Analyzer](https://github.com/dewhisna/gendasm)
+
+ASxxxx Cross-Assemblers by Alan Baldwin at Kent State University.
+* [ASxxxx Cross-Assemblers](https://shop-pdp.net/index.php) and specifically the [AS6811 Assembler](https://shop-pdp.net/ashtml/as6811.htm), is targeted by GenDasm to reassemble (or roundtrip) disassembled code back to the original binary.
+
 ## Virtualization
 * [VirtualBox](https://www.virtualbox.org/)
 
