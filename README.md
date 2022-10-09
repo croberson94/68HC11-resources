@@ -2,8 +2,7 @@
 A collection of resources for the 68HC11 microcontroller. In particular, this guide will focus on the CME11E9-EVBU version of this development board. If there are any updates you would like to contribute, submit a pull request!
 
 ## Availability
-Since this is a legacy board, it might be hard to come by physically. There are currently no known boards available for retail.
-[Amazon](https://www.amazon.com/Evaluation-Serial-Configurable-Memory-Sockets/dp/B00DK2CDU0/ref=sr_1_5?ie=UTF8&qid=1514243876&sr=8-5&keywords=68hc11) may have the board available.
+This board is available from [Axiom Manufacturing](https://www.axman.com/content/cme-11e9-evbu-single-chip-expanded-mode-development-system-mc68hc11e9-32k-sram-8k-eeprom) .
 
 ## Documentation
 ### General Manufacturer Information
